@@ -1,4 +1,4 @@
-# Self-SSStudy-Notes
+# :sunglasses: Study Notes
 
 This repo is used to store all learning materials during the PhD period, including but not limited to:
 
