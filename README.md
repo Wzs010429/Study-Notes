@@ -1,4 +1,4 @@
-# Self-study-Notes
+# Self-SSStudy-Notes
 
 This repo is used to store all learning materials during the PhD period, including but not limited to:
 
