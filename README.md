@@ -7,4 +7,6 @@
 - 组会/学术会议记录
 
 ## Updates:
+
+- 2024.08.02 创建ACL 2024 Paper Reading List (Topic: Role Playing) 有一些论文需要仔细研究一下
 - 2024.08.02 创建GitHub Repo并完成全部模板初始化
