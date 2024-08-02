@@ -1,10 +1,10 @@
 # :sunglasses: Study Notes
 
-This repo is used to store all learning materials during the PhD period, including but not limited to:
+本Repo用作本人博士工作期间的全部学习记录，包括但不限于如下内容：
 
-- Literature review
-- Technology stack learning
-- Meeting minutes
+- 文献阅读笔记
+- 技术栈学习笔记
+- 组会/学术会议记录
 
 ## Updates:
-- 2024.08.02 Created GitHub Repo and completed initialization
+- 2024.08.02 创建GitHub Repo并完成全部模板初始化
