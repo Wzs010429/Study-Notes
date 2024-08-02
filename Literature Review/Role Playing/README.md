@@ -16,4 +16,4 @@
 |11|Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment|ACL 2024 Findings|https://arxiv.org/pdf/2406.13934|||<mark>未读<mark>||
 |12|Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk|ACL 2024 Main|https://arxiv.org/pdf/2401.05033|||<mark>未读<mark>||
 |13|RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models|ACL 2024 Findings|https://arxiv.org/pdf/2310.00746|||<mark>未读<mark>||
-|14|Book2Dial: Generating Teacher-Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots|ACL 2024|https://arxiv.org/pdf/2403.03307||有几个教育学对话的指标很不错，可以抄|已读|![Link](/Literature%20Review/Role%20Playing/Book2Dial.md)|
+|14|Book2Dial: Generating Teacher-Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots|ACL 2024|https://arxiv.org/pdf/2403.03307|依托教育学领域的师生模拟对话的内容，生成有质量的训练数据|有几个教育学对话的指标很不错，可以抄|在读，未完成|[Link](/Literature%20Review/Role%20Playing/Book2Dial.md)|
