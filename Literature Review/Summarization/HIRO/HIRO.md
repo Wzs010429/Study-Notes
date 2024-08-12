@@ -8,11 +8,28 @@
 
 ## 潜在的可能可以阅读的论文（引用）
 
-- LLM倾向于对开始和结束的内容进行总结：Lost in the middle: How language models use long contexts.
+- LLM倾向于对开始和结束的内容进行总结（2023）：Lost in the middle: How language models use long contexts.
+- 一种去噪自动编码器（2023 ACL）：Attributable and scalable opinion summarization
+- 残差矢量量化技术是个什么玩意？？
 
+## Contribution
 
+- 一种编码方式，适用于语义层次结构
+- 从该离散结构表示中找到中心点（相关句子，流行句子）
+- 一个自动指标：是否是流行的通用的句子，非通用的句子的惩罚
+- 人工评估指标结果（这个可以详细看）
+  
 
 
 ## Introduction
 
 一个好的摘要：突出最流行观点，忽略掉一些细节，有助于区分不同的观点的差异化（AB想法各有千秋）
+
+
+## Hierarchical Indexing
+
+总结来讲就是主题相同的放在同一个高维度，语义相似放在同一个分支
+
+### 刚看到这里的时候产生的一些QA：
+
+- 
