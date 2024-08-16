@@ -6,3 +6,5 @@
 |1|Dialog-based Automation of Decision Making in Processes|NA|https://arxiv.org/abs/2109.00822|||<mark>未读<mark>||
 |2|Beyond Boundaries: A Human-like Approach for Question Answering over Structured and Unstructured Information Sources|ACL 2024 Main|https://aclanthology.org/2024.tacl-1.44/|||<mark>未读<mark>||
 |3|WhoValidates the Validators? Aligning LLM-Assisted Evaluation of LLMOutputs with HumanPreferences|NA|https://arxiv.org/pdf/2404.12272|||<mark>未读<mark>||
+|4|LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers|EMNLP 2023|https://aclanthology.org/2023.emnlp-main.313.pdf|||<mark>未读<mark> [High Priority]||
+|5|To Generate or to Retrieve? On the Effectiveness of Artificial Contexts for Medical Open-Domain Question Answering|ACL 2024|https://aclanthology.org/2024.acl-long.533.pdf|||<mark>未读<mark> [High Priority]||

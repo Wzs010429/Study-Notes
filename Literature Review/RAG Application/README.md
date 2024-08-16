@@ -5,3 +5,4 @@
 | - | - | - |- |- |- |- |-|
 |1|RAM-EHR: Retrieval Augmentation Meets Clinical Predictions on Electronic Health Records|ACL 2024 Oral|https://arxiv.org/abs/2403.00815|||<mark>未读<mark>||
 |2|Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion|ACL 2024 Main|https://arxiv.org/abs/2405.19782|||<mark>未读<mark>||
+|3|RAGAs: Automated Evaluation of Retrieval Augmented Generation|EACL 2024|https://aclanthology.org/2024.eacl-demo.16.pdf|||<mark>未读<mark> [High Priority]||
