@@ -8,3 +8,4 @@
 |3|WhoValidates the Validators? Aligning LLM-Assisted Evaluation of LLMOutputs with HumanPreferences|NA|https://arxiv.org/pdf/2404.12272|||<mark>未读<mark>||
 |4|LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers|EMNLP 2023|https://aclanthology.org/2023.emnlp-main.313.pdf|||<mark>未读<mark> [High Priority]||
 |5|To Generate or to Retrieve? On the Effectiveness of Artificial Contexts for Medical Open-Domain Question Answering|ACL 2024|https://aclanthology.org/2024.acl-long.533.pdf|||<mark>未读<mark> [High Priority]||
+|6|Efficient RAG Framework for Large-Scale Knowledge Bases|IJNRD 2024|https://www.ijnrd.org/papers/IJNRD2404764.pdf|||<mark>未读<mark> [High Priority]||
