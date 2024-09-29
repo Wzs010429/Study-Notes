@@ -8,3 +8,5 @@
 |3|Hierarchical Indexing for Retrieval-Augmented Opinion Summarization|ACL 2024 Transaction|https://arxiv.org/pdf/2403.00435|一个层次化摘要的生成|Llama 2 13B/70B，Mistral 7B|已读|[Link](/Literature%20Review/Summarization/HIRO/HIRO.md)|
 |4|Document Summarization with Latent Queries|ACL 2022 Transaction|https://aclanthology.org/2022.tacl-1.36/|||<mark>未读<mark>||
 |5|Prompted Aspect Key Point Analysis for Quantitative Review Summarization|ACL 2024 Main|https://aclanthology.org/2024.acl-long.576/|||<mark>未读<mark>|[Link](/Literature%20Review/Summarization/KeyPointAnalysis/KeyPointAnalysis.md)|
+|6|From Local to Global: A Graph RAG Approach to Query-Focused Summarization|arXiv|https://arxiv.org/abs/2404.16130|||已读||
+|7|Language Models as Hierarchy Encoders|arXiv|https://arxiv.org/abs/2401.11374|||||
