@@ -10,3 +10,4 @@
 |5|Prompted Aspect Key Point Analysis for Quantitative Review Summarization|ACL 2024 Main|https://aclanthology.org/2024.acl-long.576/|||<mark>未读<mark>|[Link](/Literature%20Review/Summarization/KeyPointAnalysis/KeyPointAnalysis.md)|
 |6|From Local to Global: A Graph RAG Approach to Query-Focused Summarization|arXiv|https://arxiv.org/abs/2404.16130|||已读||
 |7|Language Models as Hierarchy Encoders|arXiv|https://arxiv.org/abs/2401.11374|||||
+|8|Iteratively Calibrating Prompts for Unsupervised Diverse Opinion Summarization|ECAI 2024|https://splab.sdu.edu.cn/Iteratively_Calibrating_Prompts_for_Unsupervised_Diverse_Opinion_Summarization.pdf|||||
