@@ -44,3 +44,29 @@ their sequence representation strategies: **pixel-based, token-based, and scale-
 
 
 ### T2I 技术细节概览
+
+#### Embedding
+
+- language quantized autoencoders: Towards unsupervisedtext-image alignment
+- Fluid: Scaling autoregressive text-to-image generative models with continuous tokens
+
+#### Integration with Diffusion Models
+
+
+- A diffusion-based autoregressive motion model for real-time text-driven motion control  这篇着重mark一下
+
+
+#### Integration with Large Language Models
+
+
+- Llm4gen: Leveraging semantic representation of llms for text-to-image generation
+- Mars: Mixture of auto-regressive models for fine-grained text-to-image synthesis
+- Lumina-mgpt: Illuminate flexible photorealistic text-to-image generation with multimodal generative pre-training
+- Chameleon: Mixed-modal early-fusion foundation models
+
+
+
+#### For Novel Generation
+
+- Make-a-story: Visual memory conditioned consistent story generation
+- Seed-story: Multimodal long story generation with large language model
