@@ -38,3 +38,9 @@ their sequence representation strategies: **pixel-based, token-based, and scale-
 
 
 ## 基于尺度 scale
+
+这个暂时没有
+
+
+
+### T2I 技术细节概览
